@@ -1,0 +1,10 @@
+provala-illustration:
+  src: img/placeholder-provala.jpg
+  author: provala.rs
+  license: ilustracija / illustration
+  temp: true
+  alt: 'Illustration: a deep green lake with reeds and a sandy beach in front of a forest'
+  alt_sr: 'Ilustracija: duboko zeleno jezero sa trskom i peščanom plažom ispred šume'
+  alt_cyr: "Илустрација: дубоко зелено језеро са трском и пешчаном плажом испред шуме"
+  alt_hr: 'Ilustracija: duboko zeleno jezero s trskom i pješčanom plažom ispred šume'
+  alt_ru: 'Иллюстрация: глубокое зелёное озеро с камышом и песчаным пляжем на фоне леса'

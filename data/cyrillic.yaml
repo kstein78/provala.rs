@@ -1,0 +1,18 @@
+keep_words:
+- LiveLib
+- LitRes
+- BLITZ
+- IM
+- Media
+- Wi-Fi
+- TV
+keep_phrases:
+- Vojvodina Travel
+- BLITZ.plus
+- IM Media
+- vajska.rs
+- provala.rs
+- rakovac.rs
+- edukacija.rs
+overrides:
+  Stein: Штајн

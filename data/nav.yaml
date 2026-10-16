@@ -1,0 +1,38 @@
+menu:
+- id: lake
+  label: nav_g_lake
+  hub: lake
+  items:
+  - path: lake
+  - path: nature
+  - path: events
+- id: rest
+  label: nav_g_rest
+  hub: rest
+  items:
+  - path: rest/beach
+  - path: rest/fishing
+  - path: rest/stay
+  - path: useful
+more:
+  id: site
+  label: nav_g_site
+  items:
+  - path: about
+  - path: author
+direct:
+- path: news
+- path: map
+categories:
+  nature:
+    label: cat_nature
+    color: '#2f7f86'
+  stay:
+    label: cat_stay
+    color: '#2f5f8a'
+  heritage:
+    label: cat_heritage
+    color: '#7b3f63'
+  nearby:
+    label: cat_nearby
+    color: '#5c4a8a'

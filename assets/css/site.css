@@ -1,0 +1,22 @@
+/* provala.rs colours on top of the engine stylesheet (themes/selo/assets/css/main.css).
+   Palette: deep lake water, reed teal, warm sand of the beach for links and accents. */
+:root {
+  --bg: #eef4f3; --surface: #fafdfc; --surface-2: #dcebea; --ink: #11282e; --muted: #4f666b; --line: #c8dcdb;
+  --forest: #0e4657; --forest-ink: #eef7f6; --forest-muted: #a9d3d0;
+  --accent: #a2481f; --accent-soft: #f6e6dd; --moss: #2f7f86;
+  --placeholder: url("../img/pattern.svg") center / 220px repeat, #dcebea;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0b1517; --surface: #111e21; --surface-2: #18292d; --ink: #e3eff0; --muted: #9db4b7; --line: #23383c;
+    --forest: #06232b; --forest-ink: #e3eff0; --forest-muted: #93c2c0;
+    --accent: #f0b48f; --accent-soft: #3a261c; --moss: #7fcfc8;
+    --placeholder: url("../img/pattern-dark.svg") center / 220px repeat, #18292d;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0b1517; --surface: #111e21; --surface-2: #18292d; --ink: #e3eff0; --muted: #9db4b7; --line: #23383c;
+  --forest: #06232b; --forest-ink: #e3eff0; --forest-muted: #93c2c0;
+  --accent: #f0b48f; --accent-soft: #3a261c; --moss: #7fcfc8;
+  --placeholder: url("../img/pattern-dark.svg") center / 220px repeat, #18292d;
+}
