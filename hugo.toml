@@ -120,6 +120,7 @@ disableLanguages = ["de", "hu"]
   [params.capital]
     # shield, outline/ornaments, leaf green, letter, light leaf, gold, mid green, red
     palette = ["#0e4657", "#e0b062", "#3e9a8f", "#eef7f6", "#8fd0cc", "#e0b062", "#5fb3ad", "#c2562f"]
+    ornament = { P = "D" }   # waves under the P (the Rakovac P has grapes)
   [params.share]
     bg = "#0e4657"
     ink = "#eef7f6"
