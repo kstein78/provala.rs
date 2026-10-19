@@ -1,6 +1,6 @@
 ---
 title: Провала
-photo: provala-illustration
+photo: provala-swan-autumn
 featured_title: С чего начать
 featured:
 - lake/origin

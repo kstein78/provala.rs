@@ -6,6 +6,7 @@ kicker: Jezero · priče
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'Som od 86 kilograma, „vajštanska Kopakabana”, plivanje za Časni krst na Bogojavljenje i legenda o ljekovitom izvoru u Bođanima: priče jezera Provala.'
+photo: provala-grey-evening
 ---
 
 Zapisanih legendi o samoj Provali nismo pronašli, pa ovdje skupljamo priče koje se o jezeru pričaju i one koje su zapisane. Znate stariju priču? Pišite nam.

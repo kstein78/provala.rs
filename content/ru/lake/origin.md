@@ -5,6 +5,7 @@ kicker: Озеро · происхождение
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'Провала появилась, когда Дунай в большое половодье прорвал дамбу у Вайски: источники называют 1924 или 1926 год, а нынешнюю форму озеро приняло после наводнения 1965 года.'
+photo: provala-cloud-sky
 ---
 
 Название говорит само за себя: по-сербски *provala* — «прорыв». Озеро появилось, когда Дунай в большое половодье **прорвал дамбу** у Вайски. Река отступила, а в низине осталась вода ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/), [Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala)).

@@ -8,3 +8,166 @@ provala-illustration:
   alt_cyr: "Илустрација: дубоко зелено језеро са трском и пешчаном плажом испред шуме"
   alt_hr: 'Ilustracija: duboko zeleno jezero s trskom i pješčanom plažom ispred šume'
   alt_ru: 'Иллюстрация: глубокое зелёное озеро с камышом и песчаным пляжем на фоне леса'
+provala-swan-autumn:
+  src: img/provala-swan-autumn.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: A mute swan on Lake Provala in autumn, golden reeds and poplars, grain silos in the distance
+  alt_sr: Labud na jezeru Provala u jesen, zlatna trska i topole, silosi u daljini
+  alt_cyr: "Лабуд на језеру Провала у јесен, златна трска и тополе, силоси у даљини"
+  alt_hr: Labud na jezeru Provala u jesen, zlatna trska i topole, silosi u daljini
+  alt_ru: Лебедь-шипун на озере Провала осенью, золотой камыш и тополя, вдали элеватор
+provala-bench-autumn:
+  src: img/provala-bench-autumn.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: A wooden table under a poplar on the shore of Lake Provala in autumn, children's slides standing in the water
+  alt_sr: Drveni sto pod topolom na obali Provale u jesen, dečji tobogani u vodi
+  alt_cyr: "Дрвени сто под тополом на обали Провале у јесен, дечји тобогани у води"
+  alt_hr: Drveni stol pod topolom na obali Provale u jesen, dječji tobogani u vodi
+  alt_ru: Деревянный стол под тополем на берегу Провалы осенью, детские горки стоят в воде
+provala-beach-cabins:
+  src: img/provala-beach-cabins.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'The sandy beach of Lake Provala in autumn: changing cabins, a shade roof and the forest behind'
+  alt_sr: 'Peščana plaža na Provali u jesen: kabine za presvlačenje, nadstrešnica i šuma iza'
+  alt_cyr: "Пешчана плажа на Провали у јесен: кабине за пресвлачење, надстрешница и шума иза"
+  alt_hr: 'Pješčana plaža na Provali u jesen: kabine za presvlačenje, nadstrešnica i šuma iza'
+  alt_ru: 'Песчаный пляж Провалы осенью: кабинки для переодевания, навес и лес позади'
+provala-swans-sand:
+  src: img/provala-swans-sand.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: Three swans on the sandy shore of Lake Provala, a red slide in the water
+  alt_sr: Tri labuda na peščanoj obali Provale, crveni tobogan u vodi
+  alt_cyr: "Три лабуда на пешчаној обали Провале, црвени тобоган у води"
+  alt_hr: Tri labuda na pješčanoj obali Provale, crveni tobogan u vodi
+  alt_ru: Три лебедя на песчаном берегу Провалы, в воде красная горка
+provala-autumn-lake:
+  src: img/provala-autumn-lake.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Lake Provala on a sunny autumn day: reeds, poplars and white clouds over calm water'
+  alt_sr: 'Jezero Provala sunčanog jesenjeg dana: trska, topole i beli oblaci nad mirnom vodom'
+  alt_cyr: "Језеро Провала сунчаног јесењег дана: трска, тополе и бели облаци над мирном водом"
+  alt_hr: 'Jezero Provala sunčanog jesenskog dana: trska, topole i bijeli oblaci nad mirnom vodom'
+  alt_ru: 'Озеро Провала в солнечный осенний день: камыш, тополя и белые облака над спокойной водой'
+provala-rain:
+  src: img/provala-rain.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: Rain on Lake Provala under a grey sky, fishing rod rests standing in the water
+  position: 50% 55%
+  alt_sr: Kiša nad Provalom pod sivim nebom, držači za pecaljke u vodi
+  alt_cyr: "Киша над Провалом под сивим небом, држачи за пецаљке у води"
+  alt_hr: Kiša nad Provalom pod sivim nebom, držači za štapove u vodi
+  alt_ru: Дождь над Провалой под серым небом, в воде стоят рогатки для удочек
+provala-two-swans:
+  src: img/provala-two-swans.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: Two swans gliding on the still water of Lake Provala, a caravan on the far shore
+  alt_sr: Dva labuda klize mirnom vodom Provale, na drugoj obali kamp-prikolica
+  alt_cyr: "Два лабуда клизе мирном водом Провале, на другој обали камп-приколица"
+  alt_hr: Dva labuda klize mirnom vodom Provale, na drugoj obali kamp-prikolica
+  alt_ru: Два лебедя скользят по спокойной воде Провалы, на дальнем берегу дом на колёсах
+provala-grey-evening:
+  src: img/provala-grey-evening.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: Lake Provala on a grey summer evening, a line of willows and poplars along the far shore
+  position: 50% 60%
+  alt_sr: Provala jednog sivog letnjeg večeri, niz vrba i topola duž druge obale
+  alt_cyr: "Провала једног сивог летњег вечери, низ врба и топола дуж друге обале"
+  alt_hr: Provala jedne sive ljetne večeri, niz vrba i topola duž druge obale
+  alt_ru: Провала серым летним вечером, вдоль дальнего берега ивы и тополя
+provala-cloud-sky:
+  src: img/provala-cloud-sky.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: A wide sky of fleecy clouds over Lake Provala, trees reflected in the water
+  position: 50% 75%
+  alt_sr: Široko nebo puno oblaka nad Provalom, drveće se ogleda u vodi
+  alt_cyr: "Широко небо пуно облака над Провалом, дрвеће се огледа у води"
+  alt_hr: Široko nebo puno oblaka nad Provalom, drveće se ogleda u vodi
+  alt_ru: Широкое небо в барашковых облаках над Провалой, деревья отражаются в воде
+provala-sun-clouds:
+  src: img/provala-sun-clouds.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: The sun behind clouds over Lake Provala, the sky and trees mirrored in the lake
+  position: 50% 65%
+  alt_sr: Sunce iza oblaka nad Provalom, nebo i drveće se ogledaju u jezeru
+  alt_cyr: "Сунце иза облака над Провалом, небо и дрвеће се огледају у језеру"
+  alt_hr: Sunce iza oblaka nad Provalom, nebo i drveće se ogledaju u jezeru
+  alt_ru: Солнце за облаками над Провалой, небо и деревья отражаются в озере
+provala-tree-reflection:
+  src: img/provala-tree-reflection.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: A big poplar mirrored in Lake Provala on a hazy summer morning, reeds in front
+  position: 50% 45%
+  alt_sr: Velika topola se ogleda u Provali jednog maglovitog letnjeg jutra, trska u prvom planu
+  alt_cyr: "Велика топола се огледа у Провали једног магловитог летњег јутра, трска у првом плану"
+  alt_hr: Velika topola ogleda se u Provali jednog maglovitog ljetnog jutra, trska u prvom planu
+  alt_ru: Большой тополь отражается в Провале туманным летним утром, на переднем плане камыш
+provala-summer-bathers:
+  src: img/provala-summer-bathers.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Summer on Lake Provala: swans resting on the sandy shore while people wade into the water'
+  position: 50% 60%
+  alt_sr: 'Leto na Provali: labudovi odmaraju na peščanoj obali dok kupači ulaze u vodu'
+  alt_cyr: "Лето на Провали: лабудови одмарају на пешчаној обали док купачи улазе у воду"
+  alt_hr: 'Ljeto na Provali: labudovi odmaraju na pješčanoj obali dok kupači ulaze u vodu'
+  alt_ru: 'Лето на Провале: лебеди отдыхают на песке, а купающиеся заходят в воду'
+provala-blue-reflection:
+  src: img/provala-blue-reflection.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'A clear summer day on Lake Provala: a round tree and the blue sky mirrored in still water'
+  position: 50% 50%
+  alt_sr: 'Vedar letnji dan na Provali: krošnja drveta i plavo nebo ogledaju se u mirnoj vodi'
+  alt_cyr: "Ведар летњи дан на Провали: крошња дрвета и плаво небо огледају се у мирној води"
+  alt_hr: 'Vedar ljetni dan na Provali: krošnja stabla i plavo nebo ogledaju se u mirnoj vodi'
+  alt_ru: 'Ясный летний день на Провале: круглая крона и синее небо отражаются в спокойной воде'

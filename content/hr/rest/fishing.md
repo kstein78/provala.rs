@@ -8,6 +8,7 @@ coords:
 - 45.40014
 - 19.09103
 summary: 'Šaran, som, štuka, smuđ, bijeli amur, glavaš, bas i deverika: Provala je povezana s Dunavom i smatra se jednim od najbogatijih jezera basom u Srbiji. Tko upravlja vodom i što treba znati.'
+photo: provala-rain
 ---
 
 ## Koja se riba lovi

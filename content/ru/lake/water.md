@@ -6,11 +6,14 @@ kicker: Озеро · вода
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: Провала наполняется дождями, грунтовыми водами и из Дуная, а уровень следует за рекой. Анализ 1995 года показал воду первого класса, pH 8,5–8,6.
+photo: provala-blue-reflection
 ---
 
 ## Озеро, которое дышит вместе с Дунаем
 
 В Провалу не впадает ни одна река. Она наполняется **осадками, грунтовыми водами и из Дуная**, а уходит вода испарением и просачиванием ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala)). Озеро связано с рекой под землёй, поэтому **уровень поднимается и опускается вместе с Дунаем**; разница не больше метра ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/), [Turizmopedija](https://www.turizmopedija.com/jezero-provala/)).
+
+{{< photos "provala-tree-reflection" "tall" >}}
 
 ## Какая вода
 

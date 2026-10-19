@@ -3,7 +3,7 @@ title: Nature around Lake Provala
 linkTitle: Nature
 weight: 30
 kicker: For nature lovers
-photo: provala-illustration
+photo: provala-two-swans
 lead: 'The Danube, the woods of Labudnjača, wildlife watching at the Plavna hunting ground, the Bač fishpond and Karađorđevo, and further north the Gornje Podunavlje reserve: the nature of western Bačka around the lake.'
 tile: Danube, Plavna, Bač fishpond, Gornje Podunavlje
 ---
@@ -11,6 +11,8 @@ tile: Danube, Plavna, Bač fishpond, Gornje Podunavlje
 ## The Danube and Labudnjača
 
 Provala is part of the Danube floodplain: it is linked to the river underground and its level follows the Danube ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Along the river are the woods of Labudnjača, a settlement belonging to Vajska; the name comes from *labud*, "swan".
+
+{{< photos "provala-swans-sand" >}}
 
 ## Plavna hunting ground: wildlife watching
 

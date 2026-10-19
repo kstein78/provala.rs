@@ -8,6 +8,7 @@ coords:
 - 45.40014
 - 19.09103
 summary: 'Carp, catfish, pike, zander, grass carp, silver carp, bass and bream: Provala is linked to the Danube and said to be one of the richest bass lakes in Serbia. Who manages the water and what to know.'
+photo: provala-rain
 ---
 
 ## What you can catch

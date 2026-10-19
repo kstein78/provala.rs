@@ -3,7 +3,7 @@ title: Об озере Провала
 linkTitle: Озеро
 weight: 10
 kicker: Самое глубокое озеро Воеводины
-photo: provala-illustration
+photo: provala-autumn-lake
 lead: Как появилось озеро, какая в нём вода и как оно связано с Дунаем, и какие о нём рассказывают истории.
 tile: Происхождение, вода и связь с Дунаем, истории
 list_title: Об озере

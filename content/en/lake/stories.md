@@ -6,6 +6,7 @@ kicker: The lake · stories
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'An 86-kilogram catfish, the "Copacabana of Vajska", the Epiphany swim for the Holy Cross and the legend of the healing spring at Bođani: stories of Lake Provala.'
+photo: provala-grey-evening
 ---
 
 We have found no written legends about Provala itself, so here we collect the stories people tell about the lake and those that have been written down. Know an older tale? Write to us.

@@ -5,6 +5,7 @@ kicker: Jezero · nastanak
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'Provala je nastala kada je Dunav pri velikoj poplavi probio nasip kraj Vajske: izvori navode 1924. ili 1926., a današnji oblik jezero je dobilo nakon poplave 1965.'
+photo: provala-cloud-sky
 ---
 
 Ime sve govori: **Provala** je nastala kada je Dunav pri velikoj poplavi **probio nasip** kraj Vajske. Kad se rijeka povukla, u udubini je ostalo jezero ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/), [Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala)).

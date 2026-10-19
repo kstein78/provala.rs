@@ -9,6 +9,7 @@ coords:
 - 19.09103
 kids: true
 summary: Песчаный пляж с зонтиками, шезлонгами, кабинками и душами, кемпинг в лесу и до 2000 купающихся в день. Спасателей нет; за машину берут экологический сбор.
+photo: provala-beach-cabins
 ---
 
 ## Что есть на пляже
@@ -16,6 +17,8 @@ summary: Песчаный пляж с зонтиками, шезлонгами, 
 На песчаном участке берега оборудован пляж: **зонтики, шезлонги, кабинки для переодевания, души, туалеты, скамейки и столы**. Есть спортивные площадки, детская площадка и кемпинг, а ресторан готовит местные и международные блюда ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)). Пляж и кемпинг в лесу обустроили в 2011 году ([edukacija.rs](https://edukacija.rs/zanimljivosti/jezero-provala-u-opstini-bac)).
 
 Пляж рассчитан на **1500–2000 купающихся в день**, есть площадки для пляжного волейбола и водного поло ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/), [edukacija.rs](https://edukacija.rs/zanimljivosti/jezero-provala-u-opstini-bac)).
+
+{{< photos "provala-summer-bathers" "tall" >}}
 
 ## Безопасность
 

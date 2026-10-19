@@ -10,6 +10,7 @@ coords:
 - 19.09103
 kids: true
 summary: Уређена пешчана плажа са сунцобранима, лежаљкама, кабинама и тушевима, камп у шуми и до 2.000 купача дневно. Спасилаца нема; за аутомобиле се плаћа еколошка такса.
+photo: provala-beach-cabins
 ---
 
 ## Шта има на плажи
@@ -17,6 +18,8 @@ summary: Уређена пешчана плажа са сунцобранима,
 На пешчаном делу обале је уређена плажа са **сунцобранима, лежаљкама, кабинама за пресвлачење, тушевима, тоалетима, клупама и столовима**. Ту су и спортски терени, игралиште за децу и камп, а ресторан служи домаћа и интернационална јела ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)). Плажа и камп у шуми уређени су 2011. ([edukacija.rs](https://edukacija.rs/zanimljivosti/jezero-provala-u-opstini-bac)).
 
 Плажа може да прими **1.500–2.000 купача дневно**; за одбојку на песку и ватерполо има терена ([Туризмопедија](https://www.turizmopedija.com/jezero-provala/), [edukacija.rs](https://edukacija.rs/zanimljivosti/jezero-provala-u-opstini-bac)).
+
+{{< photos "provala-summer-bathers" "tall" >}}
 
 ## Безбедност
 

@@ -6,6 +6,7 @@ kicker: Језеро · настанак
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'Провала је настала када је Дунав при великој поплави пробио насип код Вајске: извори наводе 1924. или 1926, а данашњи облик језеро је добило после поплаве 1965.'
+photo: provala-cloud-sky
 ---
 
 Име говори све: **Провала** је настала када је Дунав при великој поплави **пробио насип** код Вајске. Кад се река повукла, у удубљењу је остало језеро ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/), [Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala)).

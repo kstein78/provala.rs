@@ -7,11 +7,14 @@ kicker: Језеро · вода
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: Провала се пуни кишом, подземном водом и из Дунава, а ниво прати реку. Испитивање из 1995. показало је воду прве класе, пХ 8,5–8,6.
+photo: provala-blue-reflection
 ---
 
 ## Језеро које дише са Дунавом
 
 Провала нема реку која у њу утиче. Пуни се **падавинама, подземном водом и из Дунава**, а вода одлази испаравањем и понирањем ([Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala)). Језеро је са реком повезано подземно, па се **ниво мења заједно са Дунавом**; разлика је највише око метар ([Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/), [Туризмопедија](https://www.turizmopedija.com/jezero-provala/)).
+
+{{< photos "provala-tree-reflection" "tall" >}}
 
 ## Каква је вода
 

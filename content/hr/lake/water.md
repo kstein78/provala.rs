@@ -6,11 +6,14 @@ kicker: Jezero · voda
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: Provala se puni kišom, podzemnom vodom i iz Dunava, a razina prati rijeku. Ispitivanje iz 1995. pokazalo je vodu prve klase, pH 8,5–8,6.
+photo: provala-blue-reflection
 ---
 
 ## Jezero koje diše s Dunavom
 
 U Provalu ne utječe nijedna rijeka. Puni se **oborinama, podzemnom vodom i iz Dunava**, a voda odlazi isparavanjem i poniranjem ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala)). Jezero je s rijekom povezano podzemno, pa se **razina mijenja zajedno s Dunavom**; razlika je najviše oko metar ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/), [Turizmopedija](https://www.turizmopedija.com/jezero-provala/)).
+
+{{< photos "provala-tree-reflection" "tall" >}}
 
 ## Kakva je voda
 

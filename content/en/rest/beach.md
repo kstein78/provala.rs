@@ -9,6 +9,7 @@ coords:
 - 19.09103
 kids: true
 summary: A sandy beach with parasols, sun loungers, changing cabins and showers, a campsite in the wood and room for 2,000 bathers a day. No lifeguard; cars pay an environmental fee.
+photo: provala-beach-cabins
 ---
 
 ## What the beach has
@@ -16,6 +17,8 @@ summary: A sandy beach with parasols, sun loungers, changing cabins and showers,
 On the sandy part of the shore there is a beach with **parasols, sun loungers, changing cabins, showers, toilets, benches and tables**. There are also sports pitches, a children's playground and a campsite, and a restaurant serving local and international dishes ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)). The beach and the campsite in the wood were laid out in 2011 ([edukacija.rs](https://edukacija.rs/zanimljivosti/jezero-provala-u-opstini-bac)).
 
 The beach takes **1,500–2,000 bathers a day** and has courts for beach volleyball and water polo ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/), [edukacija.rs](https://edukacija.rs/zanimljivosti/jezero-provala-u-opstini-bac)).
+
+{{< photos "provala-summer-bathers" "tall" >}}
 
 ## Safety
 

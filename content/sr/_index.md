@@ -1,6 +1,6 @@
 ---
 title: Provala
-photo: provala-illustration
+photo: provala-swan-autumn
 featured_title: Počnite ovde
 featured:
 - lake/origin

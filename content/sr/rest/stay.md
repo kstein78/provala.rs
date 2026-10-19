@@ -8,6 +8,7 @@ coords:
 - 45.40014
 - 19.09103
 summary: 'Kompleks „Bački dvor” na jezeru: osam dvokrevetnih soba sa kupatilom, restoran, kafe-bar i terasa. Kamp u šumi uz plažu.'
+photo: provala-sun-clouds
 ---
 
 ## Bački dvor

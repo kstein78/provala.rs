@@ -3,7 +3,7 @@ title: Priroda oko jezera Provala
 linkTitle: Priroda
 weight: 30
 kicker: Za ljubitelje prirode
-photo: provala-illustration
+photo: provala-two-swans
 lead: 'Dunav, šume Labudnjače, lovište Plavna sa posmatranjem divljači, Bački ribnjak i Karađorđevo, a dalje rezervat Gornje Podunavlje: priroda zapadne Bačke oko jezera.'
 tile: Dunav, Plavna, Bački ribnjak, Gornje Podunavlje
 ---
@@ -11,6 +11,8 @@ tile: Dunav, Plavna, Bački ribnjak, Gornje Podunavlje
 ## Dunav i Labudnjača
 
 Provala je deo dunavske ravnice: sa rekom je povezana podzemno i njen nivo prati Dunav ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Uz reku su šume Labudnjače, naselja koje pripada Vajskoj; ime dolazi od reči *labud*.
+
+{{< photos "provala-swans-sand" >}}
 
 ## Lovište Plavna: posmatranje divljači
 

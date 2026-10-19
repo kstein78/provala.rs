@@ -4,7 +4,7 @@ title: О језеру Провала
 linkTitle: Језеро
 weight: 10
 kicker: Најдубље језеро Војводине
-photo: provala-illustration
+photo: provala-autumn-lake
 lead: Како је језеро настало, каква је вода у њему и како је повезано са Дунавом, и приче које се о њему причају.
 tile: Настанак, вода и веза са Дунавом, приче
 list_title: О језеру

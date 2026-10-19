@@ -8,6 +8,7 @@ coords:
 - 45.40014
 - 19.09103
 summary: 'The "Bački dvor" complex by the lake: eight double rooms with bathrooms, a restaurant, café-bar and terrace. A campsite in the wood by the beach.'
+photo: provala-sun-clouds
 ---
 
 ## Bački dvor

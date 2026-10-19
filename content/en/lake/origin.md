@@ -5,6 +5,7 @@ kicker: The lake · origin
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'Provala formed when the Danube broke through an embankment near Vajska in a great flood: sources give 1924 or 1926, and the lake took its present shape after the 1965 flood.'
+photo: provala-cloud-sky
 ---
 
 The name says it all: *provala* means a breach. The lake formed when the Danube, in a great flood, **broke through the embankment** near Vajska. When the river withdrew, water stayed in the hollow ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/), [Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala)).
