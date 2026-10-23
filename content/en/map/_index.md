@@ -8,4 +8,4 @@ tile: All places on one map
 map: true
 ---
 
-
+Old and military maps of the lake and the area, from 1910 to the 1970s: [Maps of Vajska](https://vajska.rs/en/village/maps/).

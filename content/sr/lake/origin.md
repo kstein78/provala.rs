@@ -20,6 +20,10 @@ Turistički klub navodi i da je Dunav te godine dostigao 82 m nadmorske visine, 
 
 Vajska je **21. maja 2024.** proslavila prvih sto godina Provale, odbojkom, likovnom kolonijom, izložbom fotografija, ribolovom i večernjim koncertima ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Meštani, dakle, računaju od **1924.**
 
+## Na starim kartama
+
+Na austrougarskoj specijalnoj karti iz 1914. jezera još nema: kod Vajske su samo bare i potoci. Na topografskoj karti JNA iz 1975. jezero je već ucrtano, s natpisom „Provala”. Obe karte, i još nekoliko starih i vojnih karata okoline, objavljene su na stranici [Karte Vajske](https://vajska.rs/sr/village/maps/).
+
 ## Veličina
 
 Jezero je dugo oko 390 m, široko oko 180 m, površine oko 4,2 ha ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Najveća izmerena dubina danas je 19 m; ranije je, po Adamoviću, izmereno i 36 m ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Prosečna dubina se navodi oko 7 m, a najveći deo jezera je dubok 2–5 m ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).

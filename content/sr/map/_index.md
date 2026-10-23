@@ -8,4 +8,4 @@ tile: Sva mesta na jednoj mapi
 map: true
 ---
 
-
+Stare i vojne karte jezera i okoline, od 1910. do sedamdesetih: [Karte Vajske](https://vajska.rs/sr/village/maps/).

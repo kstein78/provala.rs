@@ -21,6 +21,10 @@ photo: provala-cloud-sky
 
 Вајска је **21. маја 2024.** прославила првих сто година Провале, одбојком, ликовном колонијом, изложбом фотографија, риболовом и вечерњим концертима ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Мештани, дакле, рачунају од **1924.**
 
+## На старим картама
+
+На аустроугарској специјалној карти из 1914. језера још нема: код Вајске су само баре и потоци. На топографској карти ЈНА из 1975. језеро је већ уцртано, с натписом „Провала”. Обе карте, и још неколико старих и војних карата околине, објављене су на страници [Карте Вајске](https://vajska.rs/sr/village/maps/).
+
 ## Величина
 
 Језеро је дуго око 390 м, широко око 180 м, површине око 4,2 ха ([Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Највећа измерена дубина данас је 19 м; раније је, по Адамовићу, измерено и 36 м ([Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Просечна дубина се наводи око 7 м, а највећи део језера је дубок 2–5 м ([Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).

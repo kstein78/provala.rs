@@ -20,6 +20,10 @@ Turistički klub пишет также, что Дунай тогда подня�
 
 **21 мая 2024 года** Вайска отметила первые сто лет Провалы: волейбол, художественная колония, фотовыставка, рыбалка и вечерние концерты ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Значит, сами жители ведут отсчёт от **1924 года**.
 
+## На старых картах
+
+На австро-венгерской специальной карте 1914 года озера ещё нет: у Вайски только болота и ручьи. На топографической карте ЮНА 1975 года озеро уже нанесено и подписано «Provala». Обе карты и ещё несколько старых и военных карт окрестностей опубликованы на странице [Карты Вайски](https://vajska.rs/ru/village/maps/).
+
 ## Размеры
 
 Длина озера около 390 м, ширина около 180 м, площадь около 4,2 га ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Наибольшая измеренная глубина сегодня 19 м; по словам Адамовича, когда-то намеряли и 36 м ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Средняя глубина — около 7 м, а большая часть озера глубиной 2–5 м ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).

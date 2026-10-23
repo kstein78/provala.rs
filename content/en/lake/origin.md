@@ -20,6 +20,10 @@ Turistički klub also notes that the Danube reached 82 m above sea level then, 3
 
 On **21 May 2024** Vajska celebrated the lake's first hundred years with volleyball, an art colony, a photo exhibition, fishing and evening concerts ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). The villagers, then, count from **1924**.
 
+## On old maps
+
+On the Austro-Hungarian special map of 1914 there is no lake yet: only marshes and streams near Vajska. On the Yugoslav army topographic map of 1975 the lake is already drawn and labelled "Provala". Both maps, and several more old and military maps of the area, are on the page [Maps of Vajska](https://vajska.rs/en/village/maps/).
+
 ## Size
 
 The lake is about 390 m long and 180 m wide, about 4.2 ha in area ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). The greatest depth measured today is 19 m; according to Adamović, 36 m was once measured ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). The average depth is given as about 7 m, and most of the lake is 2–5 m deep ([Turistički klub](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
