@@ -20,6 +20,10 @@ photo: provala-rain
 
 Сом од 86 кг и 2,6 м, шаран од 27 кг, штуке од 8–9 кг, сомови од 30–40 кг и караши од 2–3 кг ([Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Сунчаним викендом на обали често пеца на десетине риболоваца, а одржавају се и такмичења ([Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/), [Туризмопедија](https://www.turizmopedija.com/jezero-provala/)).
 
+## Друштво „Шаран”
+
+Језеро порибљава и одржава **риболовачко друштво „Шаран” Вајска** ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Из њега су и Блаженка и Миодраг Драган Давидовић, државни прваци Србије у риболову 1999. и 2000; за рад друштва општина Бач им је доделила Октобарску награду ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Пре него што забаците
 
 - Водом газдује **Риболовачки савез Србије** ([Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). За пецање вам треба важећа риболовна дозвола; где се купује и која правила важе на Провали, питајте СУ „Шаран” из Вајске или на лицу места.
@@ -29,3 +33,4 @@ photo: provala-rain
 
 - [Бач вести, 3. 4. 2024](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Туризмопедија](https://www.turizmopedija.com/jezero-provala/)
+- [Дневник, 22. 4. 2024: „Дневник у селу крај воде – Вајска”](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

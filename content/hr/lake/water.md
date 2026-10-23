@@ -25,9 +25,14 @@ Novijih javno dostupnih mjerenja kakvoće vode nismo pronašli. Ako ih imate, pi
 
 Prvih desetak metara od obale je plitko ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)), a zatim dno naglo pada, do 19 m. Spasilaca nema ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
+## Pijesak na dnu
+
+Dno je, kako kažu mještani, posvuda **pjeskovito**, a vodu hvale kao vrlo čistu. Prema Draganu Davidoviću, djeca se mogu kupati do pedesetak metara od obale ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)); drugi izvori pišu da je plitko samo prvih desetak metara, zato djecu držite na oku.
+
 ## Izvori
 
 - [Vojvodina Travel: Jezero Provala (engl.)](https://vojvodina.travel/en/experiences/lake-provala-vajska/)
 - [Turistički klub: Jezero Provala](https://www.turistickiklub.com/sadrzaj/jezero-provala)
 - [Bač vesti, 3. 4. 2024.: Jezero Provala kraj Vajske po mnogo čemu specifično](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Turizmopedija: Jezero Provala](https://www.turizmopedija.com/jezero-provala/)
+- [Dnevnik, 22. 4. 2024.: „Dnevnik u selu kraj vode – Vajska” (srp.)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

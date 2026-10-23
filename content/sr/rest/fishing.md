@@ -19,6 +19,10 @@ U Provali žive **šaran, štuka, smuđ, som, amur, tolstolobik, bas i deverika*
 
 Som od 86 kg i 2,6 m, šaran od 27 kg, štuke od 8–9 kg, somovi od 30–40 kg i karaši od 2–3 kg ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Sunčanim vikendom na obali često peca na desetine ribolovaca, a održavaju se i takmičenja ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/), [Turizmopedija](https://www.turizmopedija.com/jezero-provala/)).
 
+## Društvo „Šaran”
+
+Jezero poribljava i održava **ribolovačko društvo „Šaran” Vajska** ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Iz njega su i Blaženka i Miodrag Dragan Davidović, državni prvaci Srbije u ribolovu 1999. i 2000; za rad društva opština Bač im je dodelila Oktobarsku nagradu ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Pre nego što zabacite
 
 - Vodom gazduje **Ribolovački savez Srbije** ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Za pecanje vam treba važeća ribolovna dozvola; gde se kupuje i koja pravila važe na Provali, pitajte SU „Šaran” iz Vajske ili na licu mesta.
@@ -28,3 +32,4 @@ Som od 86 kg i 2,6 m, šaran od 27 kg, štuke od 8–9 kg, somovi od 30–40 kg 
 
 - [Bač vesti, 3. 4. 2024](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Turizmopedija](https://www.turizmopedija.com/jezero-provala/)
+- [Dnevnik, 22. 4. 2024: „Dnevnik u selu kraj vode – Vajska”](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

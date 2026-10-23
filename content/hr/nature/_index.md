@@ -14,6 +14,10 @@ Provala je dio dunavske ravnice: s rijekom je povezana podzemno i njezina razina
 
 {{< photos "provala-swans-sand" >}}
 
+## Ptice na Provali
+
+Na samom jezeru vide se **čaplje, labudovi i liske** ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Lovište Plavna: promatranje divljači
 
 U šumama kraj sela Plavna, 16 minuta od jezera, nude se vođene ture, foto-safari i promatranje divljači: jeleni, divlje svinje, fazani, jarebice i divlje patke ([Wikipedija](https://en.wikipedia.org/wiki/Plavna)).
@@ -27,3 +31,7 @@ Zapadno od slovačke Selenče je Bački ribnjak, a jugozapadno lovište Karađor
 Na sjeveru, kraj Sombora, posebni je rezervat **Gornje Podunavlje**, jedno od najvažnijih zaštićenih prirodnih područja Srbije, s pješačenjem i ribolovom ([Vojvodina Travel](https://vojvodina.travel/en/destinations/sombor/)). Na drugoj obali Dunava nastavlja se hrvatski Kopački rit. Do Gornjeg Podunavlja je oko sat i pol vožnje.
 
 Kulturna mjesta u okolici (tvrđava Bač, samostan Bođani, Sombor) opisana su na [vajska.rs](https://vajska.rs/hr/nearby/).
+
+## Izvori
+
+- [Dnevnik, 22. 4. 2024.: „Dnevnik u selu kraj vode – Vajska” (srp.)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

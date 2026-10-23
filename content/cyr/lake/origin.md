@@ -17,6 +17,10 @@ photo: provala-cloud-sky
 
 Туристички клуб наводи и да је Дунав те године достигао 82 м надморске висине, 3 м изнад алувијалне равни, а да је после 1965. насип ојачан ([Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala)).
 
+## Сто година језера
+
+Вајска је **21. маја 2024.** прославила првих сто година Провале, одбојком, ликовном колонијом, изложбом фотографија, риболовом и вечерњим концертима ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Мештани, дакле, рачунају од **1924.**
+
 ## Величина
 
 Језеро је дуго око 390 м, широко око 180 м, површине око 4,2 ха ([Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Највећа измерена дубина данас је 19 м; раније је, по Адамовићу, измерено и 36 м ([Бач вести](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Просечна дубина се наводи око 7 м, а највећи део језера је дубок 2–5 м ([Туристички клуб](https://www.turistickiklub.com/sadrzaj/jezero-provala), [Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
@@ -27,3 +31,4 @@ photo: provala-cloud-sky
 - [Туристички клуб: Језеро Провала](https://www.turistickiklub.com/sadrzaj/jezero-provala)
 - [Бач вести, 3. 4. 2024: Језеро Провала крај Вајске по много чему специфично](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Туризмопедија: Језеро Провала](https://www.turizmopedija.com/jezero-provala/)
+- [Дневник, 22. 4. 2024: „Дневник у селу крај воде – Вајска”](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

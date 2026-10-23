@@ -14,6 +14,10 @@ tile: Дунай, Плавна, Бачкий пруд, Горнье Подуна
 
 {{< photos "provala-swans-sand" >}}
 
+## Птицы на Провале
+
+На самом озере можно увидеть **цапель, лебедей и лысух** ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Угодья Плавна: наблюдение за зверем
 
 В лесах у села Плавна, в 16 минутах от озера, предлагают экскурсии, фотоохоту и наблюдение за дикими животными: олени, кабаны, фазаны, куропатки и дикие утки ([Википедия](https://en.wikipedia.org/wiki/Plavna)).
@@ -27,3 +31,7 @@ tile: Дунай, Плавна, Бачкий пруд, Горнье Подуна
 На севере, у Сомбора, — заповедник **Горнье Подунавлье**, одна из важнейших охраняемых природных территорий Сербии, с пешими маршрутами и рыбалкой ([Vojvodina Travel](https://vojvodina.travel/en/destinations/sombor/)). Около полутора часов на машине.
 
 Культурные места поблизости (крепость Бач, монастырь Бођани, Сомбор) описаны на [vajska.rs](https://vajska.rs/ru/nearby/).
+
+## Источники
+
+- [«Дневник», 22.04.2024: «Дневник в селе у воды — Вайска» (серб.)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

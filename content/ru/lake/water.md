@@ -25,9 +25,14 @@ photo: provala-blue-reflection
 
 Первые метров десять от берега мелко ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)), дальше дно быстро уходит вниз, до 19 м. Спасателей нет ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
+## Песок на дне
+
+Дно, по словам местных, везде **песчаное**, а воду они хвалят как очень чистую. По словам Драгана Давидовича, дети могут купаться в пределах полусотни метров от берега ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)); другие источники пишут, что мелко только первые метров десять, так что за детьми присматривайте.
+
 ## Источники
 
 - [Vojvodina Travel: Lake Provala (англ.)](https://vojvodina.travel/en/experiences/lake-provala-vajska/)
 - [Turistički klub: Jezero Provala (серб.)](https://www.turistickiklub.com/sadrzaj/jezero-provala)
 - [Bač vesti, 03.04.2024: об озере Провала (серб.)](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Turizmopedija: Jezero Provala (серб.)](https://www.turizmopedija.com/jezero-provala/)
+- [«Дневник», 22.04.2024: «Дневник в селе у воды — Вайска» (серб.)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

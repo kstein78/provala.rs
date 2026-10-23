@@ -25,9 +25,14 @@ We have not found more recent public water-quality data. If you have any, please
 
 The first ten metres or so from the shore are shallow ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)); then the bottom drops quickly, down to 19 m. There is no lifeguard ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
+## Sand on the bottom
+
+The bottom, locals say, is **sandy all over**, and they praise the water as very clean. According to Dragan Davidović, children can swim up to about fifty metres from the shore ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)); other sources say it is shallow only for the first ten metres or so, so keep an eye on children.
+
 ## Sources
 
 - [Vojvodina Travel: Lake Provala](https://vojvodina.travel/en/experiences/lake-provala-vajska/)
 - [Turistički klub: Jezero Provala (Serbian)](https://www.turistickiklub.com/sadrzaj/jezero-provala)
 - [Bač vesti, 3 Apr 2024: Lake Provala near Vajska (Serbian)](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Turizmopedija: Jezero Provala (Serbian)](https://www.turizmopedija.com/jezero-provala/)
+- [Dnevnik, 22 April 2024: “Dnevnik in the village by the water – Vajska” (Serbian)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

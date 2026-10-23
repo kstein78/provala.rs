@@ -14,6 +14,10 @@ Provala is part of the Danube floodplain: it is linked to the river underground 
 
 {{< photos "provala-swans-sand" >}}
 
+## Birds on the lake
+
+On the lake itself you can see **herons, swans and coots** ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Plavna hunting ground: wildlife watching
 
 In the woods near the village of Plavna, 16 minutes from the lake, there are guided tours, photo safaris and wildlife watching: deer, wild boar, pheasants, partridges and wild ducks ([Wikipedia](https://en.wikipedia.org/wiki/Plavna)).
@@ -27,3 +31,7 @@ West of the Slovak village of Selenča lies the Bač fishpond, to the south-west
 To the north, near Sombor, is the **Gornje Podunavlje** special reserve, one of Serbia's most important protected natural areas, with hiking and fishing ([Vojvodina Travel](https://vojvodina.travel/en/destinations/sombor/)). About an hour and a half by car.
 
 The cultural sights nearby (Bač Fortress, Bođani Monastery, Sombor) are on [vajska.rs](https://vajska.rs/en/nearby/).
+
+## Sources
+
+- [Dnevnik, 22 April 2024: “Dnevnik in the village by the water – Vajska” (Serbian)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

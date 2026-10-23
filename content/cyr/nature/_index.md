@@ -15,6 +15,10 @@ tile: Дунав, Плавна, Бачки рибњак, Горње Подуна
 
 {{< photos "provala-swans-sand" >}}
 
+## Птице на Провали
+
+На самом језеру виде се **чапље, лабудови и лиске** ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Ловиште Плавна: посматрање дивљачи
 
 У шумама код села Плавна, 16 минута од језера, нуде се вођене туре, фото-сафари и посматрање дивљачи: јелени, дивље свиње, фазани, јаребице и дивље патке ([Википедија](https://en.wikipedia.org/wiki/Plavna)).
@@ -28,3 +32,7 @@ tile: Дунав, Плавна, Бачки рибњак, Горње Подуна
 На северу, код Сомбора, је специјални резерват **Горње Подунавље**, једно од најважнијих заштићених природних подручја Србије, са пешачењем и риболовом ([Vojvodina Travel](https://vojvodina.travel/en/destinations/sombor/)). Око сат и по вожње.
 
 Културна места у околини (Бачка тврђава, манастир Бођани, Сомбор) описана су на [vajska.rs](https://vajska.rs/sr/nearby/).
+
+## Извори
+
+- [Дневник, 22. 4. 2024: „Дневник у селу крај воде – Вајска”](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

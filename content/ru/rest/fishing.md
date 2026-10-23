@@ -19,6 +19,10 @@ photo: provala-rain
 
 Сом на 86 кг и 2,6 м, карп на 27 кг, щуки по 8–9 кг, сомы по 30–40 кг и караси по 2–3 кг ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). В солнечные выходные на берегу часто десятки рыбаков, проходят и соревнования ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/), [Turizmopedija](https://www.turizmopedija.com/jezero-provala/)).
 
+## Общество «Шаран»
+
+Озеро зарыбляет и обслуживает **рыболовное общество «Шаран» из Вайски** ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). В нём состоят Блаженка и Миодраг (Драган) Давидович, чемпионы Сербии по рыбной ловле 1999 и 2000 годов; за работу общества община Бач вручила им Октябрьскую награду ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 ## Перед тем как забросить
 
 - Водоёмом управляет **Рыболовный союз Сербии** ([Bač vesti](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)). Нужна действующая сербская рыболовная лицензия; где её купить и какие правила действуют на Провале, спросите в обществе «Шаран» из Вайски или на месте.
@@ -28,3 +32,4 @@ photo: provala-rain
 
 - [Bač vesti, 03.04.2024 (серб.)](https://bacvesti.com/2024/04/03/jezero-provala-kraj-vajske-po-mnogo-cemu-specificno/)
 - [Turizmopedija (серб.)](https://www.turizmopedija.com/jezero-provala/)
+- [«Дневник», 22.04.2024: «Дневник в селе у воды — Вайска» (серб.)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)
