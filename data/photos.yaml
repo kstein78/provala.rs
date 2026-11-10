@@ -171,3 +171,87 @@ provala-blue-reflection:
   alt_cyr: "Ведар летњи дан на Провали: крошња дрвета и плаво небо огледају се у мирној води"
   alt_hr: 'Vedar ljetni dan na Provali: krošnja stabla i plavo nebo ogledaju se u mirnoj vodi'
   alt_ru: 'Ясный летний день на Провале: круглая крона и синее небо отражаются в спокойной воде'
+backi-dvor-terrace:
+  src: img/backi-dvor-terrace.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "The castle-style building of Bački dvor with towers and the coat-of-arms sign, wooden tables stacked on the wet terrace in November"
+  alt_sr: "Zgrada Bačkog dvora u obliku zamka sa kulama i grbom, drveni stolovi složeni na mokroj terasi u novembru"
+  alt_cyr: "Зграда Бачког двора у облику замка са кулама и грбом, дрвени столови сложени на мокрој тераси у новембру"
+  alt_hr: "Zgrada Bačkog dvora u obliku dvorca s kulama i grbom, drveni stolovi složeni na mokroj terasi u studenom"
+  alt_ru: "Здание «Бачки двор» в виде замка с башенками и гербом, на мокрой террасе сложены деревянные столы, ноябрь"
+backi-dvor-castle-side:
+  src: img/backi-dvor-castle-side.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Bački dvor from the side: two castle wings with towers, a covered terrace with wicker chairs and a street lamp"
+  alt_sr: "Bački dvor sa strane: dva krila zamka sa kulama, natkrivena terasa sa pletenim stolicama i fenjer"
+  alt_cyr: "Бачки двор са стране: два крила замка са кулама, наткривена тераса са плетеним столицама и фењер"
+  alt_hr: "Bački dvor sa strane: dva krila dvorca s kulama, natkrivena terasa s pletenim stolcima i ulična svjetiljka"
+  alt_ru: "«Бачки двор» сбоку: два крыла замка с башенками, крытая терраса с плетёными креслами и фонарь"
+backi-dvor-entrance:
+  src: img/backi-dvor-entrance.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Steps up to the entrance of Bački dvor between shrubs and white stones, balconies and four towers above"
+  alt_sr: "Stepenice do ulaza u Bački dvor između žbunja i belog kamenja, iznad terase i četiri kule"
+  alt_cyr: "Степенице до улаза у Бачки двор између жбуња и белог камења, изнад терасе и четири куле"
+  alt_hr: "Stube do ulaza u Bački dvor između grmlja i bijelog kamenja, iznad balkoni i četiri kule"
+  alt_ru: "Ступени ко входу в «Бачки двор» между кустами и белыми камнями, над ними балконы и четыре башенки"
+backi-dvor-dinner:
+  src: img/backi-dvor-dinner.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Lunch at Bački dvor: meat baked with peppers, mushrooms, carrots and potato wedges in a casserole dish, and a Greek salad"
+  alt_sr: "Ručak u Bačkom dvoru: meso pečeno sa paprikom, pečurkama, šargarepom i krompirom u posudi, i grčka salata"
+  alt_cyr: "Ручак у Бачком двору: месо печено са паприком, печуркама, шаргарепом и кромпиром у посуди, и грчка салата"
+  alt_hr: "Ručak u Bačkom dvoru: meso pečeno s paprikom, gljivama, mrkvom i krumpirom u posudi, i grčka salata"
+  alt_ru: "Обед в «Бачком дворе»: мясо, запечённое с перцем, шампиньонами, морковью и картофелем, и греческий салат"
+backi-dvor-emblem:
+  src: img/backi-dvor-emblem.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "The Bački dvor coat of arms with an anchor and the words \"jezero Provala\", etched on a glass door"
+  alt_sr: "Grb Bačkog dvora sa sidrom i natpisom „jezero Provala”, ugraviran na staklenim vratima"
+  alt_cyr: "Грб Бачког двора са сидром и натписом „језеро Провала”, угравиран на стакленим вратима"
+  alt_hr: "Grb Bačkog dvora sa sidrom i natpisom „jezero Provala”, ugraviran na staklenim vratima"
+  alt_ru: "Герб «Бачкого двора» с якорем и надписью «jezero Provala», выгравированный на стеклянной двери"
+provala-umbrellas-november:
+  src: img/provala-umbrellas-november.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Reed beach umbrellas on the empty beach of Lake Provala on a grey November day"
+  alt_sr: "Suncobrani od trske na praznoj plaži jezera Provala jednog sivog novembarskog dana"
+  alt_cyr: "Сунцобрани од трске на празној плажи језера Провала једног сивог новембарског дана"
+  alt_hr: "Suncobrani od trske na praznoj plaži jezera Provala jednog sivog studenog dana"
+  alt_ru: "Тростниковые зонтики на пустом пляже озера Провала в серый ноябрьский день"
+provala-swans-november:
+  src: img/provala-swans-november.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Two white swans and a grey young swan on Lake Provala in November"
+  alt_sr: "Dva bela labuda i sivi mladi labud na jezeru Provala u novembru"
+  alt_cyr: "Два бела лабуда и сиви млади лабуд на језеру Провала у новембру"
+  alt_hr: "Dva bijela labuda i sivi mladi labud na jezeru Provala u studenom"
+  alt_ru: "Два белых лебедя и серый молодой лебедь на озере Провала в ноябре"

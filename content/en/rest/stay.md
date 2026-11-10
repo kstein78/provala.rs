@@ -13,7 +13,7 @@ photo: provala-sun-clouds
 
 ## Bački dvor
 
-By the lake is the **"Bački dvor"** complex: eight double rooms with private bathrooms, Wi-Fi and TV, a restaurant, café-bar, summer terrace and parking ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)). Check prices and availability directly with them.
+By the lake is the **"Bački dvor"** complex: eight double rooms with private bathrooms, Wi-Fi and TV, a restaurant, café-bar, summer terrace and parking ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)). Check prices and availability directly with them. More, with opening hours and photos: [Bački dvor]({{< relref "rest/backi-dvor" >}}).
 
 ## Camping
 

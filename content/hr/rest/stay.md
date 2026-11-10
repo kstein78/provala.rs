@@ -13,7 +13,7 @@ photo: provala-sun-clouds
 
 ## Bački dvor
 
-Uz jezero je kompleks **„Bački dvor”**: osam dvokrevetnih soba s vlastitim kupaonicama, Wi-Fi i TV, restoran, kafić, ljetna terasa i parkiralište ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)). Cijene i slobodne termine provjerite izravno kod objekta.
+Uz jezero je kompleks **„Bački dvor”**: osam dvokrevetnih soba s vlastitim kupaonicama, Wi-Fi i TV, restoran, kafić, ljetna terasa i parkiralište ([Turizmopedija](https://www.turizmopedija.com/jezero-provala/)). Cijene i slobodne termine provjerite izravno kod objekta. Više, s radnim vremenom i fotografijama: [Bački dvor]({{< relref "rest/backi-dvor" >}}).
 
 ## Kamp
 
