@@ -1,6 +1,6 @@
 ---
 title: 'Bački dvor u novembru: radno vreme i ogromne porcije'
-date: '2026-11-10T21:30:00+01:00'
+date: '2026-11-10T21:00:00+01:00'
 feed: site
 top: true
 author: kosta
