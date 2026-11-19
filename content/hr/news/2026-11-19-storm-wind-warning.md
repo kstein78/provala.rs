@@ -1,5 +1,5 @@
 ---
-title: 'Crveni meteoalarm za Bačku večeras: na Provalu ne dolazite, čamce izvucite'
+title: 'Crveni meteoalarm za Bačku večeras: na Provalu ne dolazite'
 date: '2026-11-19T13:20:00+01:00'
 feed: local
 top: true
@@ -10,14 +10,14 @@ lead: 'RHMZ Srbije izdao je 19. studenoga hitno upozorenje: večeras se u Vojvod
 
 U četvrtak, 19. studenoga, u 9.50 Republički hidrometeorološki zavod Srbije (RHMZ) izdao je hitno meteorološko upozorenje i poslao hitne SMS poruke građanima. **Večeras** se, s prolaskom hladne fronte, u Vojvodini, Beogradu, zapadnoj i središnjoj Srbiji očekuju **olujni i orkanski udari zapadnog i sjeverozapadnog vjetra od 80 do 110 km/h**. **Crveni** alarm („osobito opasne vremenske pojave koje mogu prouzročiti veliku materijalnu štetu”) vrijedi za Beograd, Srijem, Banat i **Bačku**.
 
-Provala je okružena topolama i vrbama u ravnici uz Dunav, gdje vjetar sa zapada nema što zaustaviti. Po ovakvom vjetru grane i cijela stabla padaju na obalu, ceste i parkiralište, a valovi na jezeru postaju opasni i za veće čamce.
+Provala je okružena topolama i vrbama u ravnici uz Dunav, gdje vjetar sa zapada nema što zaustaviti. Po ovakvom vjetru grane i cijela stabla padaju na obalu, ceste i parkiralište.
 
 Prema prognozi RHMZ-a, u petak će opet biti toplo (16–20 °C), a od subote temperatura će postupno padati, povremeno uz kišu.
 
 ## Ribolovci i gosti
 
-- **Večeras ne dolazite na jezero** i ne izlazite na vodu. Tko je već na obali, neka se skloni prije mraka.
-- **Čamce izvucite na obalu** ili ih dvostruko zavežite; skinite i sklonite opremu, cerade i suncobrane.
+- **Večeras ne dolazite na jezero**. Tko je već na obali, neka se skloni prije mraka.
+- **Sklonite ribolovnu opremu**, cerade i suncobrane.
 - **Ne ostajte u šatoru ni kamp-kućici**, a vozilo ne ostavljajte pod drvećem.
 
 ## Vlasnici vikendica

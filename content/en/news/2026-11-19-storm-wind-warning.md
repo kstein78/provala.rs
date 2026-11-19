@@ -1,5 +1,5 @@
 ---
-title: 'Red weather alert for Bačka tonight: stay away from Provala, pull boats ashore'
+title: 'Red weather alert for Bačka tonight: stay away from Provala'
 date: '2026-11-19T13:20:00+01:00'
 feed: local
 top: true
@@ -10,14 +10,14 @@ lead: 'The RHMZ issued an urgent warning on 19 November: this evening storm and 
 
 On Thursday, 19 November, at 9:50 the Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent weather warning and sent emergency SMS messages to people. **This evening**, as a cold front passes, **storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h** are expected in Vojvodina, Belgrade and western and central Serbia. The **red** alert ("particularly dangerous weather that can cause great material damage") covers Belgrade, Srem, Banat and **Bačka**.
 
-Provala is ringed by poplars and willows on the plain by the Danube, where nothing stops a westerly wind. In wind like this, branches and whole trees come down on the shore, the roads and the car park, and the waves on the lake become dangerous even for larger boats.
+Provala is ringed by poplars and willows on the plain by the Danube, where nothing stops a westerly wind. In wind like this, branches and whole trees come down on the shore, the roads and the car park.
 
 The RHMZ forecast says it turns warm again on Friday (16–20 °C), and from Saturday temperatures will gradually fall, with occasional rain.
 
 ## Anglers and visitors
 
-- **Do not come to the lake tonight** and do not go out on the water. If you are already on the shore, leave before dark.
-- **Pull boats ashore** or double their moorings; take down and put away gear, tarpaulins and umbrellas.
+- **Do not come to the lake tonight**. If you are already on the shore, leave before dark.
+- **Put away fishing gear**, tarpaulins and umbrellas.
 - **Do not stay in a tent or caravan**, and do not leave your car under trees.
 
 ## Weekend-house owners
