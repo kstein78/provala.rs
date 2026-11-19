@@ -8,7 +8,7 @@ cover: card-storm-wind
 lead: 'The RHMZ issued an urgent warning on 19 November: this evening storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h are expected in Vojvodina. Bačka, with Vajska and Lake Provala, is under the red alert, the highest level. Tonight is no time for fishing or a walk around the lake.'
 ---
 
-On Thursday, 19 November, at 9:50 the Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent weather warning and sent emergency SMS messages to people. **This evening**, as a cold front passes, **storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h** are expected in Vojvodina, Belgrade and western and central Serbia. The **red** alert ("particularly dangerous weather that can cause great material damage") covers Belgrade, Srem, Banat and **Bačka**.
+On Thursday, 19 November, at 9:10 the Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent weather warning and sent emergency SMS messages to people. **This evening**, as a cold front passes, **storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h** are expected in Vojvodina, Belgrade and western and central Serbia. The **red** alert ("particularly dangerous weather that can cause great material damage") covers Belgrade, Srem, Banat and **Bačka**.
 
 Provala is ringed by poplars and willows on the plain by the Danube, where nothing stops a westerly wind. In wind like this, branches and whole trees come down on the shore, the roads and the car park.
 

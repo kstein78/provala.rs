@@ -8,7 +8,7 @@ cover: card-storm-wind
 lead: 'RHMZ Srbije izdao je 19. studenoga hitno upozorenje: večeras se u Vojvodini očekuju olujni i orkanski udari zapadnog i sjeverozapadnog vjetra od 80 do 110 km/h. Bačka, s Vajskom i jezerom Provala, pod crvenim je alarmom, najvišom razinom. Večeras nije vrijeme za ribolov ni šetnju oko jezera.'
 ---
 
-U četvrtak, 19. studenoga, u 9.50 Republički hidrometeorološki zavod Srbije (RHMZ) izdao je hitno meteorološko upozorenje i poslao hitne SMS poruke građanima. **Večeras** se, s prolaskom hladne fronte, u Vojvodini, Beogradu, zapadnoj i središnjoj Srbiji očekuju **olujni i orkanski udari zapadnog i sjeverozapadnog vjetra od 80 do 110 km/h**. **Crveni** alarm („osobito opasne vremenske pojave koje mogu prouzročiti veliku materijalnu štetu”) vrijedi za Beograd, Srijem, Banat i **Bačku**.
+U četvrtak, 19. studenoga, u 9.10 Republički hidrometeorološki zavod Srbije (RHMZ) izdao je hitno meteorološko upozorenje i poslao hitne SMS poruke građanima. **Večeras** se, s prolaskom hladne fronte, u Vojvodini, Beogradu, zapadnoj i središnjoj Srbiji očekuju **olujni i orkanski udari zapadnog i sjeverozapadnog vjetra od 80 do 110 km/h**. **Crveni** alarm („osobito opasne vremenske pojave koje mogu prouzročiti veliku materijalnu štetu”) vrijedi za Beograd, Srijem, Banat i **Bačku**.
 
 Provala je okružena topolama i vrbama u ravnici uz Dunav, gdje vjetar sa zapada nema što zaustaviti. Po ovakvom vjetru grane i cijela stabla padaju na obalu, ceste i parkiralište.
 
