@@ -2,7 +2,6 @@
 title: 'Red weather alert for Bačka tonight: stay away from Provala'
 date: '2026-11-19T13:20:00+01:00'
 feed: local
-top: true
 author: kosta
 cover: card-storm-wind
 lead: 'The RHMZ issued an urgent warning on 19 November: this evening storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h are expected in Vojvodina. Bačka, with Vajska and Lake Provala, is under the red alert, the highest level. Tonight is no time for fishing or a walk around the lake.'

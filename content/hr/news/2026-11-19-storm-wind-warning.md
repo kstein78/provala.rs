@@ -2,7 +2,6 @@
 title: 'Crveni meteoalarm za Bačku večeras: na Provalu ne dolazite'
 date: '2026-11-19T13:20:00+01:00'
 feed: local
-top: true
 author: kosta
 cover: card-storm-wind
 lead: 'RHMZ Srbije izdao je 19. studenoga hitno upozorenje: večeras se u Vojvodini očekuju olujni i orkanski udari zapadnog i sjeverozapadnog vjetra od 80 do 110 km/h. Bačka, s Vajskom i jezerom Provala, pod crvenim je alarmom, najvišom razinom. Večeras nije vrijeme za ribolov ni šetnju oko jezera.'
